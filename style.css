@@ -29,6 +29,56 @@
     padding: 10px 450px;
 }
 
+#blackforest-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+#whiteforest-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+#chocolate-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+#vanilla-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+#sun-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+#moon-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+#earth-img{
+    height: 400px;
+    width: 450px;
+    display: none;
+    padding: 10px 450px;
+}
+
+
 button, #btnID{
     font-size: 30px;
     padding: 10px 300px;
