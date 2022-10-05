@@ -1,0 +1,39 @@
+:root{
+    background-color:rgba(0, 0, 0, 0.909);
+    color: white;
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-top: 250px;
+
+}
+#basketball-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+#gold-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+    
+}
+#gameover-img{
+    height: 400px;
+    width: 400px;
+    display: none;
+    padding: 10px 450px;
+}
+
+button, #btnID{
+    font-size: 30px;
+    padding: 10px 300px;
+    border-radius: 50px;
+    margin-left: 300px;
+    cursor: pointer;
+    
+}
